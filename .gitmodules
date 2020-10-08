@@ -1,3 +1,6 @@
 [submodule "carlaviz"]
 	path = carlaviz
 	url = https://github.com/carla-simulator/carlaviz.git
+[submodule "testpilot"]
+	path = testpilot
+	url = https://github.com/Trustworthy-AI/testpilot.git
