@@ -1,3 +1,6 @@
 [submodule "testpilot"]
 	path = testpilot
 	url = https://github.com/Trustworthy-AI/testpilot.git
+[submodule "carlaviz"]
+	path = carlaviz
+	url = https://github.com/wx9698/carlaviz.git
