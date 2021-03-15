@@ -4,3 +4,6 @@
 [submodule "carlaviz"]
 	path = carlaviz
 	url = https://github.com/wx9698/carlaviz.git
+[submodule "telecarla"]
+	path = telecarla
+	url = https://github.com/hofbi/telecarla.git
